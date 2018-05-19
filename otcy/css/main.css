@@ -1,0 +1,199 @@
+﻿.header{
+background-color: white;    
+outline: 2px solid #1238;
+width: 99%;
+height: 130px;
+border-radius: 4px;
+margin:0.5%;
+}	
+.mainmenu
+{
+width:auto;
+border-radius: 4px;   
+background-color:  #41c6b9;
+margin:0.5%;
+}
+.mainmenu li
+{
+display: table-cell;
+float: none;
+}
+.mainmenu li a {
+display: block;
+padding: 8px 15px;
+background: #41c6b9;
+font-family:Times New Roman;
+font-size: 15px;
+color: #fff;
+text-decoration: none;
+text-align: left;
+text-transform: uppercase;
+transition: all 0.3s ease;    
+}
+.replacement li
+{
+
+float: none;
+}
+.replacement li a {
+display: block;
+padding: 8px 15px;
+background: #41c6b9;
+font-family:Times New Roman;
+font-size: 15px;
+color: #fff;
+text-decoration: none;
+text-align: left;
+text-transform: uppercase;
+transition: all 0.3s ease;    
+}
+.content{
+float:left;
+width: 72%;
+border-radius: 4px;
+margin:0.5%;
+}
+.content1{
+background:#0082;
+float:left;
+width: 72%;
+border-radius: 4px;
+margin:0.5%;
+}
+.content2{
+background:#0082;
+outline: 2px solid #000;
+float:left;
+ margin:0 19% 0 14%;
+width: 72%;
+border-radius: 4px;
+
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 135%; 
+   }
+  h2:first-letter {
+    font-family: "Times New Roman", Times, serif; 
+    font-size: 300%; 
+    color: red; 
+   }
+.replacement
+{
+background:#0082;
+outline: 2px solid #000;
+float:left;
+width: 26%;
+border-radius: 4px;
+margin:0.5%;
+text-align: center;
+color: blue;
+}
+.basement
+{
+clear:left;
+background-color: #5ed1c6;
+width: 99%;
+border-radius: 4px;
+margin:0.5%;
+text-align:center;
+}
+figcaption{
+text-align: center;
+color: grey;
+font-style: italic;}
+
+img {
+text-align:center;
+background: transparent;
+border: 10px solid rgba(0, 0, 0, 0.12);
+border-radius: 6px;
+display: block;
+margin-bottom:2px;
+max-width: 95%;
+}
+H3
+{
+text-align: center;
+color:blue;
+font-style: italic;
+}
+a:visited 
+{
+color: #900060;
+}
+A:link
+{
+text-decoration: none; 
+} 
+A:hover { 
+text-decoration: underline;
+font-size: 1.05em;
+color: red;
+}
+body {
+background: #72a5e6 url(../pie/bg.jpg) ;
+margin:0 13%;
+min-width: 550px;
+}
+.topbutton img 
+{
+position:fixed;
+bottom:10px;
+right:1.75%;
+cursor:pointer;
+border: 0px;
+background: transparent;
+}
+p
+{
+padding: 7px ;
+}
+H1,H2
+{
+text-align: center;
+}
+.logo-img
+{
+ border:0;
+ border-radius: :0;
+ position:absolute;
+ text-align:left;
+ min-height: 1px;
+ width:400px;
+ height:130px;
+}
+.imgblock {
+    position: relative;
+    display: inline-block;
+}
+
+.imgblock img {
+    height: 160px;
+    width: 300px;
+}
+.imgblock span {
+    /*background: rgba(0,0,0,0.7); (полупрозрачность)*/
+    background: #222;
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    font-size: 18px;
+    padding: 3px 5px;
+}
+table {
+     margin:2% 5%;
+
+    width: 90%;
+    border: 5px solid white;
+    background-color: white;
+} 
+
+
+
+td {
+   
+    border: 3px solid grey;}
+ 
